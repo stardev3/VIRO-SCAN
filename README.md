@@ -41,15 +41,7 @@ An antivirus scanner application built using Python and Tkinter. This tool enabl
 `malware_hashes.txt`: File containing known malware hashes (update as needed).
 `rules.yar`: YARA rules for malware detection.
 
-## Application Screenshots
 
-### Main Interface
-![Main Interface](1.png "Main Interface of the Application")
-
-### File Scanning Feature
-![File Scanning](2.png "File Scanning in Action")
-![file selevting](3.png "File Scanning in Action")
-![infected file list](4.png "File Scanning in Action")
 
 
 
